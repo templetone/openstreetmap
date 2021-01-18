@@ -1,0 +1,1603 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0893300352,
+          50.7346523921
+        ]
+      },
+      "properties": {
+        "container_id": 357,
+        "standort": "Thomastraße / Am Alten Friedhof (Omnibusbahnhof)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.063971006,
+          50.7188307409
+        ]
+      },
+      "properties": {
+        "container_id": 319,
+        "standort": "Schieffelingsweg / Im Weiler"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1571859045,
+          50.6640148717
+        ]
+      },
+      "properties": {
+        "container_id": 282,
+        "standort": "Philosophenring / Nähe Leibnizstraße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1505309681,
+          50.6661808152
+        ]
+      },
+      "properties": {
+        "container_id": 152,
+        "standort": "Heiderhofring / Weißdornweg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1569866249,
+          50.6857397428
+        ]
+      },
+      "properties": {
+        "container_id": 424,
+        "standort": "Beethovenallee an der Bahn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1523696679,
+          50.6970386444
+        ]
+      },
+      "properties": {
+        "container_id": 448,
+        "standort": "Gotenstraße Parkplatz Zentralfriedhof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0581666531,
+          50.6971099883
+        ]
+      },
+      "properties": {
+        "container_id": 69,
+        "standort": "Brüser Damm / Fahrenheitstraße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0961554467,
+          50.7466284496
+        ]
+      },
+      "properties": {
+        "container_id": 7,
+        "standort": "Augustusring neben Haus Nr. 10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0970667339,
+          50.7468498313
+        ]
+      },
+      "properties": {
+        "container_id": 50,
+        "standort": "Augustusring neben Haus Nr.18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0990820426,
+          50.7469360239
+        ]
+      },
+      "properties": {
+        "container_id": 51,
+        "standort": "Augustusring neben Haus Nr.32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1601133408,
+          50.6863692201
+        ]
+      },
+      "properties": {
+        "container_id": 295,
+        "standort": "Rheinallee (Königsplatz)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1174112705,
+          50.6999457297
+        ]
+      },
+      "properties": {
+        "container_id": 109,
+        "standort": "F.A.Schmid-Weg / An den Garagen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0753779939,
+          50.7588434094
+        ]
+      },
+      "properties": {
+        "container_id": 272,
+        "standort": "Osloer Straße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1612755821,
+          50.7183394806
+        ]
+      },
+      "properties": {
+        "container_id": 31,
+        "standort": "Am Weitgarten / Reifenbergstraße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1424709685,
+          50.7351219206
+        ]
+      },
+      "properties": {
+        "container_id": 65,
+        "standort": "Broichstraße (Firma Rübenach)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1494984487,
+          50.7296406472
+        ]
+      },
+      "properties": {
+        "container_id": 142,
+        "standort": "Hangstraße / Friedhof Küdinghoven"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1000321119,
+          50.7395883394
+        ]
+      },
+      "properties": {
+        "container_id": 354,
+        "standort": "Theaterstraße / Kölnstraße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1256744772,
+          50.7392190767
+        ]
+      },
+      "properties": {
+        "container_id": 150,
+        "standort": "Heckelsbergplatz / Streukasten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.154423232,
+          50.6806739791
+        ]
+      },
+      "properties": {
+        "container_id": 219,
+        "standort": "Kurfürstenallee (Bezirksverwaltungsstelle)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0639102308,
+          50.7465265789
+        ]
+      },
+      "properties": {
+        "container_id": 228,
+        "standort": "Liegnitzer Straße (Garagenhof)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1304900059,
+          50.7308471896
+        ]
+      },
+      "properties": {
+        "container_id": 233,
+        "standort": "Limpericher Straße / Nähe Tennisanlage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0974913271,
+          50.7420803189
+        ]
+      },
+      "properties": {
+        "container_id": 312,
+        "standort": "Graurheindorfer Straße gegenüber Nr. 7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1626727151,
+          50.6823932282
+        ]
+      },
+      "properties": {
+        "container_id": 330,
+        "standort": "Seufertstraße / Karl-Finkenburgstraße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1317845887,
+          50.6961977894
+        ]
+      },
+      "properties": {
+        "container_id": 362,
+        "standort": "Ürziger Straße / Bernkasteler Straße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1169333737,
+          50.7523596987
+        ]
+      },
+      "properties": {
+        "container_id": 374,
+        "standort": "Wittestraße (Parkplatz Sportplatz)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1729846344,
+          50.6622579208
+        ]
+      },
+      "properties": {
+        "container_id": 256,
+        "standort": "Mehlemer Straße / Lannesdorfer Straße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1482384952,
+          50.657421454
+        ]
+      },
+      "properties": {
+        "container_id": 276,
+        "standort": "Pappelweg (Bus-Endhaltestelle)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1765838076,
+          50.6806925746
+        ]
+      },
+      "properties": {
+        "container_id": 27,
+        "standort": "Am Schwimmbad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.16202144,
+          50.7170239467
+        ]
+      },
+      "properties": {
+        "container_id": 32,
+        "standort": "Am Weitgarten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1010449293,
+          50.7460499944
+        ]
+      },
+      "properties": {
+        "container_id": 33,
+        "standort": "Am Wichelshof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0933370089,
+          50.7543771307
+        ]
+      },
+      "properties": {
+        "container_id": 308,
+        "standort": "Römerstraße / Salierweg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1235352512,
+          50.7283878877
+        ]
+      },
+      "properties": {
+        "container_id": 99,
+        "standort": "Elsa-Brändström-Straße / Nähe Ernst.Moritz.Arndt-Straße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.13281095,
+          50.7448852678
+        ]
+      },
+      "properties": {
+        "container_id": 266,
+        "standort": "Nonnenpfad (Firma Knopf)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1720772025,
+          50.6701747828
+        ]
+      },
+      "properties": {
+        "container_id": 215,
+        "standort": "Kortrijker Straße (Parkplatz)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.170117284,
+          50.6901476441
+        ]
+      },
+      "properties": {
+        "container_id": 294,
+        "standort": "Rheinallee (Panoramaplatz)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1531134778,
+          50.7233243471
+        ]
+      },
+      "properties": {
+        "container_id": 209,
+        "standort": "Königswinterer Straße / Mehlemstraße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1352685633,
+          50.6961039327
+        ]
+      },
+      "properties": {
+        "container_id": 363,
+        "standort": "Ürziger Straße / Grüner Weg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1735313055,
+          50.7134155412
+        ]
+      },
+      "properties": {
+        "container_id": 29,
+        "standort": "Am Stingenberg (Sportplatz)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1602701417,
+          50.6829746386
+        ]
+      },
+      "properties": {
+        "container_id": 260,
+        "standort": "Moltkestraße (Bahnhof Bad Godesberg)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1777692074,
+          50.6635875157
+        ]
+      },
+      "properties": {
+        "container_id": 387,
+        "standort": "Ellesdorfer Straße  / Honnefer Straße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1556521274,
+          50.7226493313
+        ]
+      },
+      "properties": {
+        "container_id": 268,
+        "standort": "Oberkasseler Straße ( U-Bahn Ramersdorf)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1512448001,
+          50.6775547757
+        ]
+      },
+      "properties": {
+        "container_id": 94,
+        "standort": "Elisabethstraße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1314818019,
+          50.7406785055
+        ]
+      },
+      "properties": {
+        "container_id": 335,
+        "standort": "Siegburgerstraße (Theatergelände)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1493290296,
+          50.6827153178
+        ]
+      },
+      "properties": {
+        "container_id": 78,
+        "standort": "Burgstraße (neben H-Nr. 94)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1621553672,
+          50.7127535559
+        ]
+      },
+      "properties": {
+        "container_id": 13,
+        "standort": "Am Magdalenenkreuz / am Rhein"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1829642872,
+          50.6691102826
+        ]
+      },
+      "properties": {
+        "container_id": 212,
+        "standort": "Konstantinstraße / Im Meisengarten 131"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1852683323,
+          50.6677787506
+        ]
+      },
+      "properties": {
+        "container_id": 244,
+        "standort": "Mainzerstraße / Nähe Firma Gelma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1526063668,
+          50.702731054
+        ]
+      },
+      "properties": {
+        "container_id": 237,
+        "standort": "Kennedyallee / Ludwig-Erhard-Allee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1596791262,
+          50.6791256052
+        ]
+      },
+      "properties": {
+        "container_id": 356,
+        "standort": "Theodor-Heuss-Straße / von-der-Heydt-Straße (Rigalsche Wiese)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1991566971,
+          50.6567831551
+        ]
+      },
+      "properties": {
+        "container_id": 179,
+        "standort": "Im Frankenkeller"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1856964249,
+          50.6624538445
+        ]
+      },
+      "properties": {
+        "container_id": 42,
+        "standort": "Langenbergsweg  Friedhof Mehlem"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1589418308,
+          50.7017038778
+        ]
+      },
+      "properties": {
+        "container_id": 454,
+        "standort": "Kolberger Straße Hochhaus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0587241709,
+          50.7018532919
+        ]
+      },
+      "properties": {
+        "container_id": 456,
+        "standort": "Gaußstraße (Ecke Philipp-Reis-Straße)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1372859864,
+          50.7423499233
+        ]
+      },
+      "properties": {
+        "container_id": 288,
+        "standort": "Pützchens Chaussee gegenüber Penny-Markt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1122105135,
+          50.7200062751
+        ]
+      },
+      "properties": {
+        "container_id": 271,
+        "standort": "Oskar-Walzel-Straße (Reuterbrücke)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1300951291,
+          50.7249347071
+        ]
+      },
+      "properties": {
+        "container_id": 97,
+        "standort": "Elsa- Brandström-Straße zw. Kreuzherren- und Dietrich Bonhoeffer-Str."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0555963427,
+          50.7357148943
+        ]
+      },
+      "properties": {
+        "container_id": 426,
+        "standort": "Siemensstraße Auffahrt Dransdorfer Berg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0865055178,
+          50.7354692211
+        ]
+      },
+      "properties": {
+        "container_id": 457,
+        "standort": "Thomastraße Nähe Heerstraße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0628727769,
+          50.7328279828
+        ]
+      },
+      "properties": {
+        "container_id": 462,
+        "standort": "Car-Justi-Straße Haus Nr. 6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.059124533,
+          50.7199347721
+        ]
+      },
+      "properties": {
+        "container_id": 304,
+        "standort": "Rochusstraße / Ministerien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0465526284,
+          50.7205533082
+        ]
+      },
+      "properties": {
+        "container_id": 321,
+        "standort": "Schmittgasser Kirchweg (Friedhof)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.150652686,
+          50.7485065745
+        ]
+      },
+      "properties": {
+        "container_id": 336,
+        "standort": "Siegburgerstraße / Friedenstraße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0578841744,
+          50.7477838848
+        ]
+      },
+      "properties": {
+        "container_id": 346,
+        "standort": "Stettiner Straße / Marienburger Straße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0655353185,
+          50.7082804268
+        ]
+      },
+      "properties": {
+        "container_id": 48,
+        "standort": "Auf dem Kirchbüchel / An der Ziegelei"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0504784841,
+          50.7022222483
+        ]
+      },
+      "properties": {
+        "container_id": 423,
+        "standort": "Schießstandweg / Parkplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.08693642,
+          50.7183877547
+        ]
+      },
+      "properties": {
+        "container_id": 184,
+        "standort": "Im Wingert"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0564179077,
+          50.7092525427
+        ]
+      },
+      "properties": {
+        "container_id": 193,
+        "standort": "Julius-Leber-Straße / Nähe von-Witzleben-Straße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0484183428,
+          50.7245074432
+        ]
+      },
+      "properties": {
+        "container_id": 60,
+        "standort": "Bonner Logsweg / Weidenpeschweg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0616359476,
+          50.7004492134
+        ]
+      },
+      "properties": {
+        "container_id": 140,
+        "standort": "Hallestraße / Weimarerstraße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0683032013,
+          50.7473051739
+        ]
+      },
+      "properties": {
+        "container_id": 468,
+        "standort": "Oppelner Straße Autobahnbrücke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0577168354,
+          50.7561673417
+        ]
+      },
+      "properties": {
+        "container_id": 280,
+        "standort": "Peter-Klein-Straße / Im Dahl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0736233687,
+          50.7578819608
+        ]
+      },
+      "properties": {
+        "container_id": 350,
+        "standort": "Stockholmer Straße (Wendekreis, HNR 22)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0424585953,
+          50.7502911914
+        ]
+      },
+      "properties": {
+        "container_id": 166,
+        "standort": "Hirschberger Straße (Wendeanlage)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0883307213,
+          50.6937293225
+        ]
+      },
+      "properties": {
+        "container_id": 139,
+        "standort": "Haager Weg / Oderstraße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0975899151,
+          50.7071154732
+        ]
+      },
+      "properties": {
+        "container_id": 303,
+        "standort": "Hauweg / Robert-Koch-Straße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1068066673,
+          50.7166174509
+        ]
+      },
+      "properties": {
+        "container_id": 92,
+        "standort": "Eduard-Otto-Straße gegenüber Schule"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1766138395,
+          50.7100051123
+        ]
+      },
+      "properties": {
+        "container_id": 224,
+        "standort": "Langemarkstraße / Im Bungert gegenüber Friedhof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.134290487,
+          50.7290262524
+        ]
+      },
+      "properties": {
+        "container_id": 216,
+        "standort": "Kreuzherrenstraße / An der Unterführung"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0703976368,
+          50.7549098973
+        ]
+      },
+      "properties": {
+        "container_id": 207,
+        "standort": "Kölnstraße 496 Nähe Kaisers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0376573502,
+          50.7131652204
+        ]
+      },
+      "properties": {
+        "container_id": 293,
+        "standort": "Rene-Schickele-Straße / An der Burg Medinghoven"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.037893248,
+          50.7065202783
+        ]
+      },
+      "properties": {
+        "container_id": 464,
+        "standort": "Derlestraße / Kannheideweg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1771022262,
+          50.6825406779
+        ]
+      },
+      "properties": {
+        "container_id": 300,
+        "standort": "Rheinstraße (Nähe Rheinhotel Dreesen)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1814790204,
+          50.6659178717
+        ]
+      },
+      "properties": {
+        "container_id": 114,
+        "standort": "Floßweg / ehemalige Müllverbrennungsanlage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1205656775,
+          50.7370909138
+        ]
+      },
+      "properties": {
+        "container_id": 128,
+        "standort": "Goetheallee / Bunker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0630279645,
+          50.7221852166
+        ]
+      },
+      "properties": {
+        "container_id": 108,
+        "standort": "Euskirchener Straße / Wendekreis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0616235573,
+          50.742709388
+        ]
+      },
+      "properties": {
+        "container_id": 182,
+        "standort": "Im Tannenbusch / Hohe Straße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0927118028,
+          50.6981692581
+        ]
+      },
+      "properties": {
+        "container_id": 135,
+        "standort": "Haager Weg Parkstreifen (gegenüber Jugendherberge)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1202146114,
+          50.7318665979
+        ]
+      },
+      "properties": {
+        "container_id": 302,
+        "standort": "Ringstraße / Hermannstraße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0882706837,
+          50.7388530073
+        ]
+      },
+      "properties": {
+        "container_id": 16,
+        "standort": "Am Frankenbad / Hochstadenring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0638733816,
+          50.6873870772
+        ]
+      },
+      "properties": {
+        "container_id": 17,
+        "standort": "Am Götgesbach / Friedhof Ückesdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0681435846,
+          50.6836249625
+        ]
+      },
+      "properties": {
+        "container_id": 162,
+        "standort": "Herzogsfreudenweg / Wendeanlage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0872812473,
+          50.6982988962
+        ]
+      },
+      "properties": {
+        "container_id": 72,
+        "standort": "Buchholzstraße (Sportplatz)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0706706069,
+          50.7207235094
+        ]
+      },
+      "properties": {
+        "container_id": 113,
+        "standort": "Flodelingsweg / Sportanlage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0750945105,
+          50.7609317099
+        ]
+      },
+      "properties": {
+        "container_id": 214,
+        "standort": "Kopenhagener Straße (Sportplatz)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0608371291,
+          50.6973556655
+        ]
+      },
+      "properties": {
+        "container_id": 141,
+        "standort": "Hallestraße / Parkplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0816846688,
+          50.7275092922
+        ]
+      },
+      "properties": {
+        "container_id": 101,
+        "standort": "Endenicher Allee / Wiesenweg über BAB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0651851986,
+          50.7332778391
+        ]
+      },
+      "properties": {
+        "container_id": 47,
+        "standort": "Auf dem Hügel / Nähe Verweyenstraße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1718841563,
+          50.6801654048
+        ]
+      },
+      "properties": {
+        "container_id": 213,
+        "standort": "Konstantinstraße / Kapellenweg (Friedhof Rüngsdorf)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1065109533,
+          50.7324572887
+        ]
+      },
+      "properties": {
+        "container_id": 5,
+        "standort": "Adenauerallee / Hofgarten (Bushaltespur)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0970755333,
+          50.7353183302
+        ]
+      },
+      "properties": {
+        "container_id": 378,
+        "standort": "Budapester Straße gegenüber Nr. 2 (Bunker)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.124745653,
+          50.7014197009
+        ]
+      },
+      "properties": {
+        "container_id": 328,
+        "standort": "Südfriedhof, Servatiusstraße, 53129 Bonn "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.149857729,
+          50.6845348493
+        ]
+      },
+      "properties": {
+        "container_id": 45,
+        "standort": "Auf dem Godesberg / Parkplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0421671617,
+          50.7485009052
+        ]
+      },
+      "properties": {
+        "container_id": 168,
+        "standort": "Oppelner Straße gegeüber H-Nr. 75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1304601067,
+          50.7498191591
+        ]
+      },
+      "properties": {
+        "container_id": 499,
+        "standort": "Gartenstraße Einkaufszentrum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.07637476,
+          50.7345938923
+        ]
+      },
+      "properties": {
+        "container_id": 379,
+        "standort": "Wertstoffhof Am Dickobskreuz, (Auf dem Gelände der Müllverwertungsanlage) Einfahrt Am Dickobskreuz, Tor 2, 53121 Bonn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1273830625,
+          50.7608082738
+        ]
+      },
+      "properties": {
+        "container_id": 1,
+        "standort": "Abtstraße (Dorfplatz)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1263192,
+          50.7529459998
+        ]
+      },
+      "properties": {
+        "container_id": 461,
+        "standort": "Käsbergstraße (Höhe H-Nr. 32)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.085588931,
+          50.7451669203
+        ]
+      },
+      "properties": {
+        "container_id": 231,
+        "standort": "Lievelingsweg / Nähe Kölnstraße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0986315386,
+          50.7488573178
+        ]
+      },
+      "properties": {
+        "container_id": 307,
+        "standort": "Am Jesuitenhof / Römerstraße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "container_id": 533,
+        "standort": "Masurenweg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0864144562,
+          50.7245636916
+        ]
+      },
+      "properties": {
+        "container_id": 81,
+        "standort": "Carl-Troll-Straße an der Autobahnbrücke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "container_id": 528,
+        "standort": "Oppelner Straße 41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1450296696,
+          50.7400386341
+        ]
+      },
+      "properties": {
+        "container_id": 238,
+        "standort": "Maarstraße 48 Nähe Lidl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1443809909,
+          50.6923149548
+        ]
+      },
+      "properties": {
+        "container_id": 495,
+        "standort": "Wertstoffhof Südstraße (Westtraße 11, Einfahrt über Südstraße) 53175 Bonn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1571168453,
+          50.6955272505
+        ]
+      },
+      "properties": {
+        "container_id": 130,
+        "standort": "Gotenstraße / Saarstraße"
+      }
+    }
+  ]
+}
